@@ -17,6 +17,13 @@
 
 ![SimulatorKeyboard](https://github.com/user-attachments/assets/063228d9-319c-44ee-b656-93ae52e9ef7b)
 
+<img src="https://github.com/user-attachments/assets/dcd7d566-fdef-4261-b3ac-b671e1f3e4cf" alt="SimulatorEmpty" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/6cf13d30-ef18-4f6a-827f-70513dd9c01c" alt="SimulatorFull" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/063228d9-319c-44ee-b656-93ae52e9ef7b" alt="SimulatorKeyboard" width="300"/>
+
+
 ---
 
 ## Key Features:
