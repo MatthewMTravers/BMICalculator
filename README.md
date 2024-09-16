@@ -11,14 +11,11 @@
 
 ## Simulator Images:
 
-    ![Image of Empty Simulator](BMICalculator/Resource/SimulatorEmpty.png)
-    ![Image of Empty Simulator](/assets/images/SimulatorEmpty.png)
-    
-    
-    ![Image of Populated Simulator](BMICalculator/Resource/SimulatorFull.png)
-    ![Image of Populated Simulator with Keyboard](BMICalculator/Resource/SimulatorKeyboard.png)
+![SimulatorEmpty](https://github.com/user-attachments/assets/dcd7d566-fdef-4261-b3ac-b671e1f3e4cf)
 
+![SimulatorFull](https://github.com/user-attachments/assets/6cf13d30-ef18-4f6a-827f-70513dd9c01c)
 
+![SimulatorKeyboard](https://github.com/user-attachments/assets/063228d9-319c-44ee-b656-93ae52e9ef7b)
 
 ---
 
