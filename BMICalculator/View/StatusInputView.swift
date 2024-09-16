@@ -139,7 +139,7 @@ class StatusInputView: UIView {
             statusText = "Underweight"
             iconImage = UIImage(named: "underweight")!
             statusColor = UIColor.yellow
-        case 18.5..<24.9:
+        case 18.5..<25:
             statusText = "Healthy"
             iconImage = UIImage(named: "healthy")!
             statusColor = UIColor.green

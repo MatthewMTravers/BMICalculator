@@ -3,9 +3,19 @@
 ---
 
 ## Project Description:
-The BMI Calculator is an interactive iOS app designed for people on a health journey to easily track and understand their Body Mass Index (BMI) metrics. This app allows users to input their weight and height, and the app will calculate their BMI instantly. It also includes a feature to reset inputs and results with ease, enhancing user experience during repeated use.
+    The BMI Calculator is an interactive iOS app designed for people on a health journey to easily track and understand their Body Mass Index (BMI) metrics. This app allows users to input their weight and height, and the app will calculate their BMI instantly. It also includes a feature to reset inputs and results with ease, enhancing user experience during repeated use.
 
-The app is built using the Model-View-ViewModel (MVVM) architecture, alongside UIKit for the user interface. It leverages Combine for reactive programming using the Publisher-Subscriber (PubSub) pattern, and SnapKit for layout management.
+    The app is built using the Model-View-ViewModel (MVVM) architecture, alongside UIKit for the user interface. It leverages Combine for reactive programming using the Publisher-Subscriber (PubSub) pattern, and SnapKit for layout management.
+
+---
+
+## Simulator Images:
+
+    ![Image of Empty Simulator](BMICalculator/Resource/SimulatorEmpty.png)
+    ![Image of Populated Simulator](BMICalculator/Resource/SimulatorFull.png)
+    ![Image of Populated Simulator with Keyboard](BMICalculator/Resource/SimulatorKeyboard.png)
+
+
 
 ---
 
