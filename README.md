@@ -12,6 +12,9 @@
 ## Simulator Images:
 
     ![Image of Empty Simulator](BMICalculator/Resource/SimulatorEmpty.png)
+    ![Image of Empty Simulator](/assets/images/SimulatorEmpty.png)
+    
+    
     ![Image of Populated Simulator](BMICalculator/Resource/SimulatorFull.png)
     ![Image of Populated Simulator with Keyboard](BMICalculator/Resource/SimulatorKeyboard.png)
 
