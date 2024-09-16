@@ -37,9 +37,9 @@
 > UIKit: Handles the user interface, utilizing custom views for input fields and result displays.
 
 > Combine Framework: Utilizes the Publisher-Subscriber pattern to listen for user input changes. The app also uses:
-    - PassthroughSubject: Immediately sends any new value to its subscribers.
-    - EraseToAnyPublisher: Abstracts the type of publishers, providing flexibility and ease in code maintenance.
-    - Cancellables: Manages memory, ensuring that any subscriptions to publishers are cleaned up when deallocated.
+>     PassthroughSubject: Immediately sends any new value to its subscribers.
+>     EraseToAnyPublisher: Abstracts the type of publishers, providing flexibility and ease in code maintenance.
+>     Cancellables: Manages memory, ensuring that any subscriptions to publishers are cleaned up when deallocated.
 
 > SnapKit: Simplifies AutoLayout, providing a clean and concise way to define layout constraints programmatically.
     
